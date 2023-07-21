@@ -1,7 +1,8 @@
 {
     "+agents": [
         {
-            "name": "moe.yushi:authlibinjector:1.2.3"
+            "name": "moe.yushi:authlibinjector:1.2.3",
+            "absoluteUrl": "https://authlib-injector.yushi.moe/artifact/51/authlib-injector-1.2.3.jar"
         }
     ],
     "formatVersion": 1,
