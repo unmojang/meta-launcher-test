@@ -1,18 +1,13 @@
 {
     "+agents": [
         {
+            "MMC-absoluteUrl": "https://authlib-injector.yushi.moe/artifact/8/authlib-injector-1.0.8-feab914.jar",
             "name": "moe.yushi:authlibinjector:1.0.8-feab914"
         }
     ],
     "formatVersion": 1,
-    "libraries": [
-        {
-            "absoluteUrl": "https://authlib-injector.yushi.moe/artifact/8/authlib-injector-1.0.8-feab914.jar",
-            "name": "moe.yushi:authlibinjector:1.0.8-feab914"
-        }
-    ],
     "name": "authlib-injector",
-    "releaseTime": "2023-07-20T22:19:25.737892+00:00",
+    "releaseTime": "2023-07-20T22:58:15.171324+00:00",
     "type": "release",
     "uid": "moe.yushi.authlibinjector",
     "version": "1.0.8-feab914"
