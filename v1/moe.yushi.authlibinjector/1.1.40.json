@@ -1,0 +1,14 @@
+{
+    "+agents": [
+        {
+            "absoluteUrl": "https://authlib-injector.yushi.moe/artifact/40/authlib-injector-1.1.40.jar",
+            "name": "moe.yushi:authlibinjector:1.1.40"
+        }
+    ],
+    "formatVersion": 1,
+    "name": "authlib-injector",
+    "releaseTime": "2023-07-20T22:01:10.045995+00:00",
+    "type": "release",
+    "uid": "moe.yushi.authlibinjector",
+    "version": "1.1.40"
+}

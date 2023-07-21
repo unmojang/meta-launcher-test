@@ -7,6 +7,11 @@
             "uid": "com.mumfrey.liteloader"
         },
         {
+            "name": "authlib-injector",
+            "sha256": "68bf503f0bcf7a7f6da14b1f2783c812a6d82a5aa853e79d8e2818aa6be257c6",
+            "uid": "moe.yushi.authlibinjector"
+        },
+        {
             "name": "Fabric Loader",
             "sha256": "44a7497119aaa12ecb7faa63dac44b58bd3eaca54de6ff56e458700884fc880e",
             "uid": "net.fabricmc.fabric-loader"
