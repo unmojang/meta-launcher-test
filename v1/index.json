@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "2c13443c892c4cf32df48baf4b727e58b1a38c36660325db2ec16dd4c4101c12",
+            "sha256": "054d54203ae91c356258934885948267da48f68a41fe6b8ed7e17ed36b45a7aa",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -18,12 +18,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "d2effeb3ba4489f9cbab6e3bc426778aac1eb9aa151f1cf0be4185795b56688f",
+            "sha256": "e16c2c6b520c6c8b8718b0f472f5e0edc121b7cf553bb42b2640e6f18ffc5740",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "ddc10ff66182604bf11a56aeaae907173857934bac354fc9fd0bc08138c34b1d",
+            "sha256": "c1eec6583aa041439b346a12d930f4e24975898d5ca685867c5e566d32d2379c",
             "uid": "net.minecraft"
         },
         {
