@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "2b0df025d17e95baf281bf089c04dea4c45aa3fa19596f098f1e9be612decfde",
+            "sha256": "5883e549795c7b8706bba067f6701f472854611426b1b9fc45703c2325feeda2",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "1fc638b1dc8e73d31e9ccade999a2b83331a368f61fce79396985de491ade0ca",
+            "sha256": "866cdb55548004de6068c62f65f7d2d009cb0e351d40d9810da6f7671a0639d2",
             "uid": "net.neoforged"
         },
         {
