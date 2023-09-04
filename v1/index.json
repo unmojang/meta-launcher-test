@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "29f7703fc7dbcdc6b22c9ed9a7841c26d2429648da769a8b23318901e29de769",
+            "sha256": "3c5e664caf7d7b868e4603208d384a3942cccc12d322a87b30f004ad747d6c60",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "7fa480ec0f8645f65fa3ac6a40887543d1fadf6db1f9b8c3b55c418a394005cf",
+            "sha256": "0ffc89a2b0bc722e18ea7a19ad3b72f8ea534d648196a127b97d51608ea62129",
             "uid": "net.minecraftforge"
         },
         {
