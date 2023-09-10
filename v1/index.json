@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "1098ecc1cf2b8e1fb9202529c9e40ddef8782f7864ba4a6658f9baec0a9f0b7b",
+            "sha256": "2ed4b2ee5c1223c7be997d6d55b976a454d38c11be5db24009b600a5bb758037",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "37392f6fa2b864f301f304e92b62306d7e803f26106e2a3aae0fddb9928b4864",
+            "sha256": "ce09e11a049cbe44f7f01bad2cd2ed5f62f6a0bd9acd65c2defef3b6e7db2467",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
