@@ -8033,9 +8033,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "4d0dc920852ffefc1093a8d045db0fcde9e7a8c70d136a9672393793bff0b55a",
+            "sha256": "05ef3498408832a264123427d1e53071622e095c271a637a870c1fc79543f443",
             "type": "snapshot",
-            "version": "1.6.3"
+            "version": "13w37b"
         },
         {
             "recommended": false,
@@ -8046,9 +8046,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "05ef3498408832a264123427d1e53071622e095c271a637a870c1fc79543f443",
+            "sha256": "4d0dc920852ffefc1093a8d045db0fcde9e7a8c70d136a9672393793bff0b55a",
             "type": "snapshot",
-            "version": "13w37b"
+            "version": "1.6.3"
         },
         {
             "recommended": false,
@@ -9008,9 +9008,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "3333d7629f8fef842d22bb5b768a281c219f24ee540d608a220a7b98cad9ebc9",
+            "sha256": "37ad803e7ce629d4dce52c2c6b805690c248d00944d8cbed0d0961c4c8a0f979",
             "type": "old_snapshot",
-            "version": "12w30e"
+            "version": "12w30d"
         },
         {
             "recommended": false,
@@ -9021,9 +9021,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "37ad803e7ce629d4dce52c2c6b805690c248d00944d8cbed0d0961c4c8a0f979",
+            "sha256": "3333d7629f8fef842d22bb5b768a281c219f24ee540d608a220a7b98cad9ebc9",
             "type": "old_snapshot",
-            "version": "12w30d"
+            "version": "12w30e"
         },
         {
             "recommended": false,
@@ -9047,9 +9047,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "4bc36bbdba8b2b36c7de74c0ce057784a064d733486b256c062fa942d2a42e93",
+            "sha256": "0dffa1fc0d623aef5e2f06a770d2b22bb50843dadc18fa44616e15ac0877e003",
             "type": "old_snapshot",
-            "version": "12w30b"
+            "version": "12w30a"
         },
         {
             "recommended": false,
@@ -9060,9 +9060,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "0dffa1fc0d623aef5e2f06a770d2b22bb50843dadc18fa44616e15ac0877e003",
+            "sha256": "4bc36bbdba8b2b36c7de74c0ce057784a064d733486b256c062fa942d2a42e93",
             "type": "old_snapshot",
-            "version": "12w30a"
+            "version": "12w30b"
         },
         {
             "recommended": false,
