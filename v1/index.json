@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "dbbac05d0bf4872bc946b789df38698a8c5b1e163798b9a64dde25892053be24",
+            "sha256": "fd20c2eede06208d7a63c26b74dd67420048ff366a2d84760850cecb5a5981c8",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -18,17 +18,17 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "877bf00f409619a30b8a52e72b28d4836989fdbb95a34cba87ea00810fb5dd6c",
+            "sha256": "2a47a3ce4b54fb5713a2f2a2d37dc4448c68816b4213f22e449bad9d7c81b90e",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "d4892f36c6da9d3a81a024284e436f26c8dfed851153be51c7c737641b1215e2",
+            "sha256": "0c3715e58fef664bf87bca2eddec6285e8788a09cfa8fc0326608b943c769fea",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "0ffc89a2b0bc722e18ea7a19ad3b72f8ea534d648196a127b97d51608ea62129",
+            "sha256": "b2e465db3c8c7a6a2db402e3f6238def91f563d99bceea42d96d8a47937f0c51",
             "uid": "net.minecraftforge"
         },
         {
