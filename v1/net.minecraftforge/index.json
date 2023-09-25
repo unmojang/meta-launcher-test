@@ -5,6 +5,18 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2023-09-24T17:05:14+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "dde178f9e1bfa4d01c3b2d2cab7ce4550861b13f4494f524804640100e7ce3bf",
+            "version": "48.0.6"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2023-09-23T19:20:14+00:00",
             "requires": [
                 {
@@ -28,7 +40,7 @@
             "version": "48.0.1"
         },
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2023-09-21T19:07:53+00:00",
             "requires": [
                 {
@@ -40,7 +52,7 @@
             "version": "43.3.0"
         },
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2023-09-21T19:02:15+00:00",
             "requires": [
                 {
@@ -64,7 +76,7 @@
             "version": "48.0.0"
         },
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2023-09-21T17:42:34+00:00",
             "requires": [
                 {
@@ -808,7 +820,7 @@
             "version": "47.1.1"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2023-07-07T03:34:19+00:00",
             "requires": [
                 {
@@ -1192,7 +1204,7 @@
             "version": "46.0.1"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2023-06-07T19:16:59+00:00",
             "requires": [
                 {
@@ -2560,7 +2572,7 @@
             "version": "44.0.0"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2022-12-08T07:29:37+00:00",
             "requires": [
                 {
