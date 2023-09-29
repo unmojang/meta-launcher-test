@@ -5,6 +5,78 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2023-09-28T23:48:07+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "11836973313efc873fd8f895fe78d7f72dd7a5e92591597cf4f0ecf7d3b472f8",
+            "version": "43.3.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-09-28T23:38:24+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0251b54e7245b99ab19a6d7bf1661e835bc8cbc63acb58c7d10b464377e80bb4",
+            "version": "48.0.12"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-09-28T22:03:34+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f53a37c26cdd545095482f9e0a41a86fa10fc68c635da685a10cce0be0df324a",
+            "version": "45.2.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-09-28T21:33:39+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d0125c6f446f03de2fe0dce9f2a46a44d32747fb7bf3fac590233a2f22904f4a",
+            "version": "48.0.11"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-09-28T07:27:32+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "69bb51f4a097bfce2bcd1729936fd92a92ba4ee7f9211e94f1efc843dd33fe7c",
+            "version": "47.2.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-09-28T06:16:48+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2f03fdbb9e90e061b30600cdcd761dd15ffb10ddf6bc79105b2750757624ba1b",
+            "version": "48.0.10"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2023-09-27T23:43:28+00:00",
             "requires": [
                 {
