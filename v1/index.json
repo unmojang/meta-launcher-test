@@ -8,7 +8,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "929a274eb4c1e9a8911642ad7808f647d2d484eac6fea52ce372fa3dae0dbd2a",
+            "sha256": "44b0c6b4984d550ada723d1c9158e84ada4b88b6823c54b914308ee4a808e0c0",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -18,12 +18,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "120ab50ac3c63516264412630815426e32e903c4da8d8bcd92d98d32635b772b",
+            "sha256": "33f8212486776133daa23f74cf7a3ed7058976322fffec4d6642cb7849c5fede",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "c6241242cb70141630e298dd0e055a45d34bed1c785199c71f1f19ff60d8671b",
+            "sha256": "0ac72d314da5561ee640376657f4cfca8f311cee65da3410334386c18241e4a3",
             "uid": "net.minecraft"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "4ec831f6ed3fefe0935bd0e064e7a00eb0ac7206f11ee1586f7b161985126d85",
+            "sha256": "37ca478f24e57437a01f44cfb547af0d9e318ab7c8e2ae4523558d7152577a90",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]

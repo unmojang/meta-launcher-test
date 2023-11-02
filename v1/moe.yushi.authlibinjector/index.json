@@ -6,6 +6,13 @@
         {
             "recommended": true,
             "releaseTime": "1970-01-01T00:00:00+00:00",
+            "sha256": "91160b2dba83f9eddda68999d55cabd5ed148aeb13953253c4cb7fe4dfaf6b26",
+            "type": "release",
+            "version": "1.2.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
             "sha256": "3975472d1632ae593a336aa72e97c757bf9d6a50d543c61e44e2b823fe6acd02",
             "type": "release",
             "version": "1.2.3"

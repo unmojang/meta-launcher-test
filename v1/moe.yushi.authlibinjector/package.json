@@ -7,7 +7,7 @@
     "name": "authlib-injector",
     "projectUrl": "https://github.com/yushijinhun/authlib-injector",
     "recommended": [
-        "1.2.3"
+        "1.2.4"
     ],
     "uid": "moe.yushi.authlibinjector"
 }
