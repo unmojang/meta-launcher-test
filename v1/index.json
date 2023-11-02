@@ -23,17 +23,17 @@
         },
         {
             "name": "Minecraft",
-            "sha256": "0ac72d314da5561ee640376657f4cfca8f311cee65da3410334386c18241e4a3",
+            "sha256": "fceb792e416bb7068bf3580e6b0c7cfc88ee3b5ad737717dabd43dd5f9196bf8",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "31fc8fb2bf6222884d742dd2f0a2dbdb88efc89038287a573e91263e1d531b81",
+            "sha256": "97c9d4ce5bed3752a01af307063a06d585b6627ed50415ac5300de3204b0b77a",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "a942272a321bd2173c325e3079242693823dc63b55151a7d69b89c218d40aa21",
+            "sha256": "294476e6338764e7f2e6948672ec1ebb6f8f2ee2dafd3cfa5969457c68a7838c",
             "uid": "net.neoforged"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "e6d1db17e473e1eb3e658606ea47a600fceea7719e75895c4493b9e292884db2",
+            "sha256": "f8f1b093eefb8c654be15c3fe57900563c80b65f31b958d0bbca5af83effce9f",
             "uid": "org.lwjgl3"
         },
         {
