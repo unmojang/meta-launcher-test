@@ -14,35 +14,35 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/earlydisplay/1.0.2/earlydisplay-1.0.2.jar",
-                    "sha1": "60b18a151050ba69e34e4107b1f9adc1393c6b5b",
-                    "size": 259973,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/1.0.2/earlydisplay-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/earlydisplay/1.0.9/earlydisplay-1.0.9.jar",
+                    "sha1": "e907bd79a8df1a74c9713c3c026735bc654eba85",
+                    "size": 259930,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/1.0.9/earlydisplay-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:earlydisplay:1.0.2"
+            "name": "net.neoforged.fancymodloader:earlydisplay:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/core/1.0.2/core-1.0.2.jar",
-                    "sha1": "18ff8b20ec326372b11fc3032e9cdaf3cd8e3092",
-                    "size": 116355,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/1.0.2/core-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/core/1.0.9/core-1.0.9.jar",
+                    "sha1": "e17c448eeaa0a603ea95bf71f3fe84e13651cd3e",
+                    "size": 117652,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/1.0.9/core-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:core:1.0.2"
+            "name": "net.neoforged.fancymodloader:core:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/loader/1.0.2/loader-1.0.2.jar",
-                    "sha1": "edf717ab54f9e77d7b7007f600bc44243ac958bb",
-                    "size": 262365,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/1.0.2/loader-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/loader/1.0.9/loader-1.0.9.jar",
+                    "sha1": "324b7899819add88440a85282a0cd7c8615e7acb",
+                    "size": 266996,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/1.0.9/loader-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:loader:1.0.2"
+            "name": "net.neoforged.fancymodloader:loader:1.0.9"
         },
         {
             "downloads": {
@@ -487,46 +487,46 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/language-java/1.0.2/language-java-1.0.2.jar",
-                    "sha1": "84bdde786082cf849550c0ea76eba3b27ee3093d",
-                    "size": 17224,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-java/1.0.2/language-java-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/language-java/1.0.9/language-java-1.0.9.jar",
+                    "sha1": "635ad0cd0c5fda3d182b32987274caf35cf1e885",
+                    "size": 16986,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-java/1.0.9/language-java-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:language-java:1.0.2"
+            "name": "net.neoforged.fancymodloader:language-java:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/language-lowcode/1.0.2/language-lowcode-1.0.2.jar",
-                    "sha1": "c12ee500192fe25576d08c0c552c04773aeefd81",
-                    "size": 7278,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-lowcode/1.0.2/language-lowcode-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/language-lowcode/1.0.9/language-lowcode-1.0.9.jar",
+                    "sha1": "bae14e8a28da6b25e1b351d3ae7e8fb6b58eeead",
+                    "size": 7231,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-lowcode/1.0.9/language-lowcode-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:language-lowcode:1.0.2"
+            "name": "net.neoforged.fancymodloader:language-lowcode:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/language-minecraft/1.0.2/language-minecraft-1.0.2.jar",
-                    "sha1": "14fc2b355953e85883c96961fcf4b6d6ed8e19b6",
-                    "size": 4903,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-minecraft/1.0.2/language-minecraft-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/language-minecraft/1.0.9/language-minecraft-1.0.9.jar",
+                    "sha1": "5279f24771762af21ae1237a67e95330cdbf2faf",
+                    "size": 4970,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/language-minecraft/1.0.9/language-minecraft-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:language-minecraft:1.0.2"
+            "name": "net.neoforged.fancymodloader:language-minecraft:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/events/1.0.2/events-1.0.2.jar",
-                    "sha1": "0f88214778d797a5f08b5c7c1ac26bec923a1a46",
-                    "size": 14390,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/events/1.0.2/events-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/events/1.0.9/events-1.0.9.jar",
+                    "sha1": "2caadfa0aec2e53b66f8ba9f66d1a64826d351b9",
+                    "size": 14350,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/events/1.0.9/events-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:events:1.0.2"
+            "name": "net.neoforged.fancymodloader:events:1.0.9"
         },
         {
             "downloads": {
@@ -556,12 +556,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "b333c9254cfd4e8bec4a22488ac65a97647f9d59",
-                    "size": 7961339,
-                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.2.13-beta/neoforge-20.2.13-beta-installer.jar"
+                    "sha1": "96f7595028c68e58828a92535cfdcdb65041bd9f",
+                    "size": 7964720,
+                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.2.38-beta/neoforge-20.2.38-beta-installer.jar"
                 }
             },
-            "name": "net.neoforged:neoforge:20.2.13-beta:installer"
+            "name": "net.neoforged:neoforge:20.2.38-beta:installer"
         },
         {
             "downloads": {
@@ -2018,46 +2018,46 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/neoforge/1.20.2-20.2.13-beta/neoforge-1.20.2-20.2.13-beta-universal.jar",
-                    "sha1": "d24f636a062eaf4d4f28940b81cc5ce0309e58ed",
-                    "size": 2134146,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.2.13-beta/neoforge-20.2.13-beta-universal.jar"
+                    "path": "net/neoforged/neoforge/1.20.2-20.2.38-beta/neoforge-1.20.2-20.2.38-beta-universal.jar",
+                    "sha1": "5149d398015dcd6ab4f27df86a3d63c7a48b767b",
+                    "size": 2135068,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.2.38-beta/neoforge-20.2.38-beta-universal.jar"
                 }
             },
-            "name": "net.neoforged:neoforge:1.20.2-20.2.13-beta:universal"
+            "name": "net.neoforged:neoforge:1.20.2-20.2.38-beta:universal"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/earlydisplay/1.0.2/earlydisplay-1.0.2.jar",
-                    "sha1": "60b18a151050ba69e34e4107b1f9adc1393c6b5b",
-                    "size": 259973,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/1.0.2/earlydisplay-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/earlydisplay/1.0.9/earlydisplay-1.0.9.jar",
+                    "sha1": "e907bd79a8df1a74c9713c3c026735bc654eba85",
+                    "size": 259930,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/1.0.9/earlydisplay-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:earlydisplay:1.0.2"
+            "name": "net.neoforged.fancymodloader:earlydisplay:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/core/1.0.2/core-1.0.2.jar",
-                    "sha1": "18ff8b20ec326372b11fc3032e9cdaf3cd8e3092",
-                    "size": 116355,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/1.0.2/core-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/core/1.0.9/core-1.0.9.jar",
+                    "sha1": "e17c448eeaa0a603ea95bf71f3fe84e13651cd3e",
+                    "size": 117652,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/core/1.0.9/core-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:core:1.0.2"
+            "name": "net.neoforged.fancymodloader:core:1.0.9"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/neoforged/fancymodloader/loader/1.0.2/loader-1.0.2.jar",
-                    "sha1": "edf717ab54f9e77d7b7007f600bc44243ac958bb",
-                    "size": 262365,
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/1.0.2/loader-1.0.2.jar"
+                    "path": "net/neoforged/fancymodloader/loader/1.0.9/loader-1.0.9.jar",
+                    "sha1": "324b7899819add88440a85282a0cd7c8615e7acb",
+                    "size": 266996,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/1.0.9/loader-1.0.9.jar"
                 }
             },
-            "name": "net.neoforged.fancymodloader:loader:1.0.2"
+            "name": "net.neoforged.fancymodloader:loader:1.0.9"
         },
         {
             "downloads": {
@@ -2511,10 +2511,10 @@
             "name": "org.jline:jline-terminal:3.12.1"
         }
     ],
-    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --fml.neoForgeVersion 20.2.13-beta --fml.fmlVersion 1.0.2 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635 --launchTarget forgeclient",
+    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --fml.neoForgeVersion 20.2.38-beta --fml.fmlVersion 1.0.9 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635 --launchTarget forgeclient",
     "name": "NeoForge",
     "order": 5,
-    "releaseTime": "2023-10-31T14:02:42.528378+00:00",
+    "releaseTime": "2023-11-06T21:42:12.838968+00:00",
     "requires": [
         {
             "equals": "1.20.2",
@@ -2522,5 +2522,5 @@
         }
     ],
     "uid": "net.neoforged",
-    "version": "20.2.13-beta"
+    "version": "20.2.38-beta"
 }
