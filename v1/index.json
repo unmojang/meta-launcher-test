@@ -3,27 +3,27 @@
     "packages": [
         {
             "name": "LiteLoader",
-            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
+            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "d803bcb0d9094c137cd396df827d8e420d52c44f9c7499991895de59786b62b9",
+            "sha256": "352d37f3f8c4e388eea39fd90f6c44a2cd9011af6d45b2854030e5c429e3f9f6",
             "uid": "moe.yushi.authlibinjector"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "ae290ad7175e0c4e5d794978d36e399911451242c89606954d1813f8eb375523",
+            "sha256": "84b45783682059c325022a88ed00df63550c098b91295876267d8ab22871a19c",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "99d0cad7da138be5b323201288f0bce7c8e32051df027c67d686520d96a281da",
+            "sha256": "0a561066c1e605c36142e5a1cb0f7d3b324d3f7231e82d84629a7d56b4d5f959",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "70aa82d51d5b19377467a91792e3932490f8b15b420db6bd7c815c39eb5ab095",
+            "sha256": "c6a4281212300b022cfbc93dc060d570c63805b9d62d18d8207b2246a4e9b1b4",
             "uid": "net.minecraft"
         },
         {
@@ -38,12 +38,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "92bdb517828e36cd4b714d2eb69d1f03a974df4a3ffa189edd819c8532a2fcb8",
+            "sha256": "f325c5d3292269f377b1aafabf6d65a5f5d8b6216801cb3ed63d64dc351d3247",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "bbbbc4061c88f1fb616fe9185d83a7aadfc69adf64922632a5dd2862660945af",
+            "sha256": "de066d1b0ace885909b402f417644c832050150a33fa3f0f4f41f5e0a3fd0071",
             "uid": "org.lwjgl3"
         },
         {
