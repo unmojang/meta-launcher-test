@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "acd024c0448ec2c577a3f41aaa471acf6d9cda9b",
-                    "size": 36229,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/1.5.8-prism/ForgeWrapper-1.5.8-prism.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:1.5.8-prism"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -215,8 +215,8 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "7740395d662f2ff69d4889143816edc8ebfc902a",
-                    "size": 6472883,
+                    "sha1": "f1467de9a4ea74e6969ac9777f04040547f5c88e",
+                    "size": 6567721,
                     "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.15.2-31.1.95/forge-1.15.2-31.1.95-installer.jar"
                 }
             },

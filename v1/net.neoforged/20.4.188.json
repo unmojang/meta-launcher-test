@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "acd024c0448ec2c577a3f41aaa471acf6d9cda9b",
-                    "size": 36229,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/1.5.8-prism/ForgeWrapper-1.5.8-prism.jar"
+                    "sha1": "86c6791e32ac6478dabf9663f0ad19f8b6465dfe",
+                    "size": 35483,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:1.5.8-prism"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2024-02-29"
         },
         {
             "downloads": {
@@ -534,8 +534,8 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "065830824d5444f2b5d535aac34d525e8790c086",
-                    "size": 6422970,
+                    "sha1": "1db10f99051b0e81045279fbfc14e6b5ac7b090e",
+                    "size": 6428450,
                     "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.4.188/neoforge-20.4.188-installer.jar"
                 }
             },
