@@ -1,0 +1,14 @@
+{
+    "+agents": [
+        {
+            "MMC-absoluteUrl": "https://authlib-injector.yushi.moe/artifact/11/authlib-injector-1.1.11-bfa2629.jar",
+            "name": "moe.yushi:authlibinjector:1.1.11-bfa2629"
+        }
+    ],
+    "formatVersion": 1,
+    "name": "authlib-injector",
+    "releaseTime": "2018-06-28T21:28:23+08:00",
+    "type": "release",
+    "uid": "moe.yushi.authlibinjector",
+    "version": "1.1.11-bfa2629"
+}
