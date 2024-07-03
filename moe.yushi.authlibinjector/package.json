@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "Haowei Wen"
+    ],
+    "description": "authlib-injector enables you to build a Minecraft authentication system offering all the features that genuine Minecraft has.",
+    "formatVersion": 1,
+    "name": "authlib-injector",
+    "projectUrl": "https://github.com/yushijinhun/authlib-injector",
+    "recommended": [
+        "1.2.5"
+    ],
+    "uid": "moe.yushi.authlibinjector"
+}
