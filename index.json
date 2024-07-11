@@ -8,12 +8,12 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "3ab95ae8d628801421092deb23d63b45f9230375840a01c72f6d02dc675e58d9",
+            "sha256": "8d74f9513be6c05c3160e4dff79d2d99bd00100a842014a6b2df4f9bbb1c6970",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "307eb7b7614cfcb9e222493c2131ea878b6367b538ac86a73f2f9889ba35981b",
+            "sha256": "07bfdb107afc655bccc815bfcea97187135a4ec1241fb5b3c4d3a193a10b891a",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "6bbcedf8dddb37416a993aeca79c4be0981b46699295f58b47b34a63955ed1cf",
+            "sha256": "9c88e5c653d678c5b8e4cd42d7eab7be735a8b6870e3cbf7f1efce5d061a11f1",
             "uid": "net.minecraft"
         },
         {
@@ -43,22 +43,22 @@
         },
         {
             "name": "Forge",
-            "sha256": "7e2f6e895cc237071f3107457c960c70732cb4429e7579ab3a8de0b14f15bbf5",
+            "sha256": "c8f1cf98a7eab1dfd70ce09f1d9aae5a3b725f7ebc50d27e1a24ae846e8b5608",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "b80e249579f256f675d1f0c11b329faedf562fca8b0a18abcadf8a0b1b6dbce0",
+            "sha256": "f65a0d03dfe9d62b0161e44d2361703ddcd7c12937709f689eafaf0181c27497",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "80adefa6e2e9ec3a1999d5ec66b217164f15fa157a8be70479eb1842279baee0",
+            "sha256": "521b16ce89e616c67df6da540ad092c481be91a5b308960bb3169af2a66c34c3",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "8bef3aac67b09fc23f82b2b6e1ed786558c4c71489d5993e08c1ebccfdaa73ce",
+            "sha256": "196b2613e69dad0de1876d2e100014e820e9af70a282e2efc6fafeba7674212c",
             "uid": "org.lwjgl3"
         },
         {
