@@ -5,6 +5,66 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2024-08-26T16:20:26.711068+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "1e1b47cc919945985e64ed0d95924471bc3a769a9cb3aa44d33ccb1909487cf0",
+            "version": "21.1.28"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-26T04:51:09.722606+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "70740b4c8794a514deaa4c08d8b5bf509797e496d0821cf32642376c0015fbe0",
+            "version": "21.1.27"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-25T07:49:50.468086+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "efb4f2188b705f0385af201d23801917f459df4c4e45c9bafe6e9dc6c7bfa4cb",
+            "version": "21.1.26"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-25T07:09:37.614777+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5c45952712266eedef62e0a80b54425e79d6f1723069befb4d0fa55fa4443640",
+            "version": "21.1.25"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2024-08-25T03:25:08.370051+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4db0d93b9dd10db666de5d32790aa0cf7de7d291df9084cbba81bef3ebe135ac",
+            "version": "21.1.24"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2024-08-22T13:13:59.184858+00:00",
             "requires": [
                 {
