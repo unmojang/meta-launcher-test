@@ -5,6 +5,66 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2025-04-01T16:20:05.306798+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "69ece14fc911ed7f5ab5a5f5f1c3f11c305e57fd5de063178e86bd6c6e9e9129",
+            "version": "21.5.18-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-04-01T13:28:53.522982+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2dc9d998e0c67d4bdc91b5fbc9c7ebbd9d28c544a875d1adb88d1e6b7dcb2bb4",
+            "version": "21.5.17-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-04-01T09:50:44.573957+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4f9e3af5a33e3c9042fef6566341268c86299aeaa5a95d445813796e13c093b4",
+            "version": "21.5.16-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-04-01T07:34:33.833655+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b04112ac921718cd9f8f77820b999f7ed65a199c5cacfc81767dd6561b2840c4",
+            "version": "21.1.142"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-04-01T04:28:27.997528+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6fd5b20702fbc1a4575201a0ed3da4bc15a35085979152ab69370d9e9ab8e40b",
+            "version": "21.5.15-beta"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2025-03-30T20:49:07.319565+00:00",
             "requires": [
                 {
