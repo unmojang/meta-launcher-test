@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "name": "Java 19",
-    "releaseTime": "2023-01-20T15:38:36+00:00",
+    "releaseTime": "2022-09-26T10:24:28+00:00",
     "runtimes": [
         {
             "checksum": {
