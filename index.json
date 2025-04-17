@@ -18,12 +18,12 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "8907f7b47b1471be64f8dbc7d7ddd40ee5eb1bf98e893a594214d9597be08478",
+            "sha256": "61a88e99045592b5fae0ea4ca81d43b915a55dcff94d82a375f8352ccb83ec66",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "89a71a2094a5db8eb526bde9bdf262e8a49a3de670615072b427e45b13e4c578",
+            "sha256": "f01c91aaead6eaecf386a29b6118bad103b3c67a361b733d42199b7bc1993877",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "85343cbfdd6e9639223320788b2d54992d239760cc8c2e9f5524a7d7cf1159d9",
+            "sha256": "f57579fb389865c665d69f3aa7741de756e105b332fc184eea8d4537918553c8",
             "uid": "net.minecraft.java"
         },
         {
