@@ -335,16 +335,16 @@
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "b5286126f0c022ecd122a19e0017317ba99cc303f95791808e55919779874b19",
+            "sha256": "1ebcd4418870a8f984744aad503d73e2bc1f5de92b6ac6bdcc3f3e836c397752",
             "type": "release",
-            "version": "1.0.3-3185f73"
+            "version": "1.0.6-28fcbd2"
         },
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "a176af2f09b7cf1cd2b779a15706ca49e7d6ea4b427f4a68fe7da475fc950f37",
+            "sha256": "b5286126f0c022ecd122a19e0017317ba99cc303f95791808e55919779874b19",
             "type": "release",
-            "version": "1.0.2-e47b187"
+            "version": "1.0.3-3185f73"
         },
         {
             "recommended": false,
@@ -356,9 +356,9 @@
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "1ebcd4418870a8f984744aad503d73e2bc1f5de92b6ac6bdcc3f3e836c397752",
+            "sha256": "a176af2f09b7cf1cd2b779a15706ca49e7d6ea4b427f4a68fe7da475fc950f37",
             "type": "release",
-            "version": "1.0.6-28fcbd2"
+            "version": "1.0.2-e47b187"
         },
         {
             "recommended": false,
