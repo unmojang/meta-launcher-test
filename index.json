@@ -18,12 +18,12 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "f0891050cf375607bb15aa79e6da7e2a15d1878025784b21cc673c827f6e652a",
+            "sha256": "72c834f938e7d7b4fceaf3adbade047c88158b67eb43372d61d79c82975841a5",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "f01c91aaead6eaecf386a29b6118bad103b3c67a361b733d42199b7bc1993877",
+            "sha256": "6b6cf1566dad34b110ab91c2e5f6425052fca25dd39e1027251931bd4210301e",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "ba98b0690e3c0e8d84ae91e4a1b19090ce7fec56377906d2e44cb0ed3b492784",
+            "sha256": "e1097463593d0984097a2f4be1f9937be4c817b92a9d3c815372b9ab85588b07",
             "uid": "net.neoforged"
         },
         {
