@@ -8,12 +8,12 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "123d266d1a7032ad3ef14335c63932327be0e979a1fd540688a3b8204a21b3c3",
+            "sha256": "3ab95ae8d628801421092deb23d63b45f9230375840a01c72f6d02dc675e58d9",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "7e679d12887627aa1f296b58a6b6889345e5b30f1148fc2e549462fea5d0fced",
+            "sha256": "4d848f67c95c8bf70b95fe2349a6195b5a85f775893173506f607b96dc1bc65b",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "1139b8d92b76a314bf6522726618449c4b3b98ca63df7ba8d997c60c55bc8c87",
+            "sha256": "46e2eba828cab48bf1899cec4365427e91b1bc68c52ae9df0b937dc22ecce91d",
             "uid": "net.minecraft"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "ff86d55fea00f43afac630da869ff38f1838e30a8ea5a228f61e3855873d1965",
+            "sha256": "318fb2939195cd537e0c83d5880bd20a819e2f6743c322b487428ff93b283db8",
             "uid": "net.minecraftforge"
         },
         {
@@ -53,12 +53,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "fd597f7f7b7d401b0c410992df57ac54767d1e712be1c86d1b991564985866db",
+            "sha256": "cff0d9bf753a97c4dceb2ae19182f0dc9ecb573b1600e9cc131d7ca68cd8ad37",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "9a35e802dab6396c63a1967f9c910a10fc27ce53866d3e3f22f1c26b744357e4",
+            "sha256": "82c31dfddcbef4050e4cb10394c9c39395d46bd0168e599b7b90c76152b25f56",
             "uid": "org.lwjgl3"
         },
         {
