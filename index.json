@@ -13,7 +13,7 @@
         },
         {
             "name": "authlib-injector",
-            "sha256": "82d1f03740d0c513d1755672ccbf5508a10853ae59eb0de8f89329978be62fb9",
+            "sha256": "148a43770b1d5991435589f0f7f548fe27ad803c28ddc3c4e43e9fb31062d16f",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "415a90ced0263a3a6dcf436fe4128fd4abe73c346a7b121ce2486bb69a896c6b",
+            "sha256": "547bd26d412df0ce1ca6a70f5f7fe7839d7b79220bec3453664f30e5279e5257",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "785b1ce006b4866790b8145d1ce8d589f994497c9f7c3b7521ecf7cfd4f08fab",
+            "sha256": "33b6ca5549dedb830a04b5200285ff33d0f690801fed43556b5313f2b01064fd",
             "uid": "net.minecraft"
         },
         {
@@ -48,22 +48,22 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "17275d32e8580093c8ae5cfb0015f13919810435cee485c5bfe73ac8ab792577",
+            "sha256": "60aaf78b8fc3fb9fe4511be3a694797e129a327d7ee34925c235a12c210db76c",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "80398709998cc07b5d2e077e9c15e9689fba626d68ae4de70dc2cc1229b0b99f",
+            "sha256": "edde7680c587b8c90ccb9ed5ccd0cb19d570efb2c4ef02f2e9919a8c4bc635c3",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "a7d0ac14b031adc178b2ceff4e204d2b1eb010b39c59e2d11201e4b92b70acf0",
+            "sha256": "79138c96fa53b309d62e25841bd0643baa696d8b4321731d5c3c7fcb89761747",
             "uid": "org.lwjgl3"
         },
         {
             "name": "Quilt Loader",
-            "sha256": "6e1fde72d746cc13be464f18cff27c1d9630dcfea2c36d885dfec73ad1227663",
+            "sha256": "ed59be95039ddb5cafcd3d8f89f60e2fbd37c556dc3f5ccb4937fa83f5b6fb9e",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
