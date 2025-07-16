@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "82b539efa22a30c0bdb8d8a9fbb1a6a108cd073d431f7ba1fa72b70e6e9f69bd",
+            "sha256": "95708e6368e153d7da028647bb34182b0e7e13167852a40d59666539d4fb6ad7",
             "uid": "com.azul.java"
         },
         {
@@ -28,17 +28,17 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "547bd26d412df0ce1ca6a70f5f7fe7839d7b79220bec3453664f30e5279e5257",
+            "sha256": "1cecc6e816dc2c82de4966b115a388d084cc93c93d2550e74aa51ddc305c4420",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "33b6ca5549dedb830a04b5200285ff33d0f690801fed43556b5313f2b01064fd",
+            "sha256": "62f86ec0de6b0330dfb0a78cd49c90d2cc039f1470335fd7a1534d725aae6913",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "bd4ceb8bde43bb0b3c967011a10d5e121a82e4416e4ef70f4e2e3e883046aeb1",
+            "sha256": "7fd5e7d0d4fdac5d94c24f611ffd548ac6218528da72620f85a3b0db6397c71f",
             "uid": "net.minecraft.java"
         },
         {
