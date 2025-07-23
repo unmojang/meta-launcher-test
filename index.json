@@ -18,7 +18,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "48a55904a5b1032fe8c6efe29c67c9754da827bf9c4492b53e324650687450dc",
+            "sha256": "8e9bca01b543a3fadacd579f5eb4341b0f81229308bf99b93c30d971bc38db64",
             "uid": "net.adoptium.java"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "8181ccc38cee47262245186109546d57ec78369613351e747cf5612010aa22ce",
+            "sha256": "c23d38fc57fbdfe6955c55a6c30dff7a76a01e961d45015e29015895c39f07f5",
             "uid": "net.minecraft.java"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "f46d4eb492e9aa4ce2df4518988c4779b19d1901145737350181064412e38cc2",
+            "sha256": "590f448adfb5fbb8a536919df9b669eaf9e5f07efa192dda2fd76da0248b9a5c",
             "uid": "net.neoforged"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "ed59be95039ddb5cafcd3d8f89f60e2fbd37c556dc3f5ccb4937fa83f5b6fb9e",
+            "sha256": "d62547f981a2cd7232a45dc3dda685dd97154a7bceae58afb8fa2ae33d3b94b4",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
