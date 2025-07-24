@@ -18,7 +18,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "8e9bca01b543a3fadacd579f5eb4341b0f81229308bf99b93c30d971bc38db64",
+            "sha256": "0ba51b2a947a8ad2ef890ac6c0b5849433c8bf1df23e9fb29e78ff04485198ff",
             "uid": "net.adoptium.java"
         },
         {
@@ -43,12 +43,12 @@
         },
         {
             "name": "Forge",
-            "sha256": "179736fead71e1ab2f16b61304ff9f917d493e4f5e5f39ebd10f477c6ff9d98b",
+            "sha256": "cc7cfcd8d2ca202b51ec77f69f5b34c05a036ed622cdb4b267eebff6049f7785",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "590f448adfb5fbb8a536919df9b669eaf9e5f07efa192dda2fd76da0248b9a5c",
+            "sha256": "ff68423fa49893f7b9d79fbef324630265bfbfc17e16351dc7a2cf821a27703c",
             "uid": "net.neoforged"
         },
         {
