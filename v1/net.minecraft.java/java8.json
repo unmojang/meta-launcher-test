@@ -62,20 +62,20 @@
         },
         {
             "checksum": {
-                "hash": "1b4b3885e07d6e018c59b7f16aace34c7a66a35257e9256a73afd979e667a15a",
+                "hash": "ccc88ca0b997c8ed7d0bae9120ed0fca740559db3fb9673fd8d580185c45c986",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2024-03-28T10:43:43+00:00",
+            "releaseTime": "2025-07-02T11:48:42+00:00",
             "runtimeOS": "mac-os-arm64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-macosx_aarch64.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-macosx_aarch64.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 412
+                "security": 462
             }
         },
         {
@@ -118,40 +118,40 @@
         },
         {
             "checksum": {
-                "hash": "1a6b470ac83b241223447a1e6cb55c4a8f78af0146b9387e9842625041226654",
+                "hash": "6c0f29b6011d0baa46f90a572691b77ea93a45b4e5037141777a236956945c50",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2024-04-18T17:04:04+00:00",
+            "releaseTime": "2025-04-17T13:29:26+00:00",
             "runtimeOS": "linux-arm32",
-            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jre_arm_linux_hotspot_8u412b08.tar.gz",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_arm_linux_hotspot_8u452b09.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 9,
                 "major": 8,
                 "minor": 0,
-                "security": 412
+                "security": 452
             }
         },
         {
             "checksum": {
-                "hash": "17550a6a4ddf71ac81ba8f276467bc58f036c123c0f1bafcafd69f70e3e49cf5",
+                "hash": "c34506736ab52768c59660a5d4246b94f57543c79b7e4b53d322dda3ec4a9302",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2024-04-18T17:04:04+00:00",
+            "releaseTime": "2025-07-21T16:54:31+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u412b08.tar.gz",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u462b08.tar.gz",
             "vendor": "eclipse",
             "version": {
                 "build": 8,
                 "major": 8,
                 "minor": 0,
-                "security": 412
+                "security": 462
             }
         }
     ],
