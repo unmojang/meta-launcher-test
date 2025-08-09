@@ -8,12 +8,12 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "148a43770b1d5991435589f0f7f548fe27ad803c28ddc3c4e43e9fb31062d16f",
+            "sha256": "e60b1dd2568df063d7bf7f536fedca0e52dac2de9496786b5ecbed95e9e0fbfc",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -23,17 +23,17 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "25ccf6296f2c55963eb22cc38caa2018e751fa5d0bd376b2b1cc571da4ab472d",
+            "sha256": "e61974abe8ee8b955dcc74aa7e7c98c97e50ed24735280e20c8dac976941a044",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "6fbaf7f37351b5eaf98ed984effbb7c133a941d05fe8a7c119d7be2473f510ae",
+            "sha256": "a80e31d2131e1945c06ce653df2d64b83ce568ee0a962e5271e4b1e99df216e4",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "87727b4bd213d983c62e0678f5a916d6dd67116b961d7b3a5002bc08cfc11bb5",
+            "sha256": "be350baca2499a2a19a47508e21c3566ccd1ce8b7d366f2021d1360ce1237ddf",
             "uid": "net.minecraft"
         },
         {
@@ -53,12 +53,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "edde7680c587b8c90ccb9ed5ccd0cb19d570efb2c4ef02f2e9919a8c4bc635c3",
+            "sha256": "381e13ffb253ce29a16d524bfb1307385fb1d9bc289c951a1cd4120913be67cd",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "79138c96fa53b309d62e25841bd0643baa696d8b4321731d5c3c7fcb89761747",
+            "sha256": "7dd5dadbe566d987bb8645872c2320dd208a903e0f276712688168a47fb21d6c",
             "uid": "org.lwjgl3"
         },
         {
