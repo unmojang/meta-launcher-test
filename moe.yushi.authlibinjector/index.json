@@ -5,6 +5,13 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2025-09-04T04:50:47+00:00",
+            "sha256": "389249309afab34d471645f5d68e227d7aa7f02d76461e5ca21e9775ef77d8e4",
+            "type": "release",
+            "version": "1.2.5.1.unmojang"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2025-09-04T04:08:10+00:00",
             "sha256": "fab210824e13a0d30405a51dc36c590e018cacc2a2dfef8ff15e371d30237180",
             "type": "release",
