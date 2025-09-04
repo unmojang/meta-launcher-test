@@ -2,7 +2,7 @@
     "+agents": [
         {
             "MMC-absoluteUrl": "https://github.com/unmojang/authlib-injector/releases/download/v1.2.5.0/unmojang-injector-1.2.5.0.jar",
-            "name": "moe.yushi:authlibinjector:1.2.5.0"
+            "name": "moe.yushi:authlibinjector:1.2.5.0.unmojang"
         }
     ],
     "formatVersion": 1,

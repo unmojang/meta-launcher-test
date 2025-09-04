@@ -4,9 +4,9 @@
     "uid": "moe.yushi.authlibinjector",
     "versions": [
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2025-09-04T04:08:10+00:00",
-            "sha256": "da5fdbbbd7bc6f4912dc6a51ed9823d21a460fd387f6b27754637dcbbeed76d2",
+            "sha256": "fab210824e13a0d30405a51dc36c590e018cacc2a2dfef8ff15e371d30237180",
             "type": "release",
             "version": "1.2.5.0.unmojang"
         },
