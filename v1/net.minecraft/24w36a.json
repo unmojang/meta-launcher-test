@@ -7,10 +7,10 @@
     ],
     "assetIndex": {
         "id": "18",
-        "sha1": "ecd060da0e1793d97368243927b4c40af7e4d3db",
-        "size": 457235,
-        "totalSize": 404053812,
-        "url": "https://piston-meta.mojang.com/v1/packages/ecd060da0e1793d97368243927b4c40af7e4d3db/18.json"
+        "sha1": "f1a335c0bc71f017f6fb74e96e6f757ea0e615d3",
+        "size": 457335,
+        "totalSize": 406486878,
+        "url": "https://piston-meta.mojang.com/v1/packages/f1a335c0bc71f017f6fb74e96e6f757ea0e615d3/18.json"
     },
     "compatibleJavaMajors": [
         21
@@ -579,6 +579,16 @@
             "name": "org.slf4j:slf4j-api:2.0.9"
         }
     ],
+    "logging": {
+        "argument": "-Dlog4j.configurationFile=${path}",
+        "file": {
+            "id": "client-1.12.xml",
+            "sha1": "bd65e7d2e3c237be76cfbef4c2405033d7f91521",
+            "size": 888,
+            "url": "https://piston-data.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+        },
+        "type": "log4j2-xml"
+    },
     "mainClass": "net.minecraft.client.main.Main",
     "mainJar": {
         "downloads": {

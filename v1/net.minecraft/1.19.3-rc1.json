@@ -5,10 +5,10 @@
     ],
     "assetIndex": {
         "id": "2",
-        "sha1": "bfacb43bddd46ca185f67938301f258b219171e0",
-        "size": 406874,
-        "totalSize": 575868242,
-        "url": "https://piston-meta.mojang.com/v1/packages/bfacb43bddd46ca185f67938301f258b219171e0/2.json"
+        "sha1": "6e5e9b33de7a2b938a7683cfe00f6c5b2ae3b801",
+        "size": 406974,
+        "totalSize": 578301308,
+        "url": "https://piston-meta.mojang.com/v1/packages/6e5e9b33de7a2b938a7683cfe00f6c5b2ae3b801/2.json"
     },
     "compatibleJavaMajors": [
         17
@@ -370,7 +370,24 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna-platform:5.12.1"
+            "name": "net.java.dev.jna:jna-platform:5.12.1",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -380,7 +397,24 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna:5.12.1"
+            "name": "net.java.dev.jna:jna:5.12.1",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -481,8 +515,66 @@
                 }
             },
             "name": "org.slf4j:slf4j-api:2.0.1"
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "88e9a306715e9379f3122415ef4ae759a352640d",
+                    "size": 1363209,
+                    "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar"
+                }
+            },
+            "name": "net.java.dev.jna:jna-platform:5.13.0",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "1200e7ebeedbe0d10062093f32925a912020e747",
+                    "size": 1879325,
+                    "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar"
+                }
+            },
+            "name": "net.java.dev.jna:jna:5.13.0",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
         }
     ],
+    "logging": {
+        "argument": "-Dlog4j.configurationFile=${path}",
+        "file": {
+            "id": "client-1.12.xml",
+            "sha1": "bd65e7d2e3c237be76cfbef4c2405033d7f91521",
+            "size": 888,
+            "url": "https://piston-data.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+        },
+        "type": "log4j2-xml"
+    },
     "mainClass": "net.minecraft.client.main.Main",
     "mainJar": {
         "downloads": {
