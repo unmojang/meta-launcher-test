@@ -23,22 +23,22 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "cf64dab073db1c1b62a23f6363438a560f5a46661f429d1440e7c26037dcd9ab",
+            "sha256": "7a900913b1efd98d644899a0ae45d5c46e981b6359326ed9e8040f8c98b51789",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "0c80303f7dcbeea5dd4483fbc69dee55e923ffeebfde39da1e25b4d3b3841295",
+            "sha256": "f9420fcc13276357d49bd513b7ab3d56b6770d6afa8b7a72512b6bf36a7b7bf5",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "edc6b4bb16b68bdca75bf0bcc84b8202e6c6cb6333fa685c60de5e357696b49d",
+            "sha256": "f90a99ed2326861a2ae50dbf495dfbd28ba6dd3d5e1bbda88d85fd4de11b766b",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "ab733e3850cdb1dbb38100e56a4f0db5dca367d462dd3ebb94244d335910af78",
+            "sha256": "a5ca774cdd07ce07d2925f569ccb02baa11a8b75a3f5870dbac437144c57bcc5",
             "uid": "net.minecraft"
         },
         {
@@ -48,12 +48,12 @@
         },
         {
             "name": "Forge",
-            "sha256": "eec78dd29d71719b509cb3d7681d7a781fec70a3f402d5aa6e309c29e6419027",
+            "sha256": "c7d9c89eda9c50589a3f46689b53f643c7aae6556b8e785d574f23fa5242910c",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "1b56272d34f67c039b1e34d00d9549f6426914046c97f18f96c8620d44f30619",
+            "sha256": "310508a8ab61d09eb5808b58285521332730bc88971ac8f780a045e48a6f494b",
             "uid": "net.neoforged"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "53138c3163fb0bac9b379b85ea17aebb207a658461e5b7276ba31cd07a822315",
+            "sha256": "38694c3212e03841958859d364f80b51769d1bea8932c360a6be83c62a330b91",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
