@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "9325d3c4f97deffca76633845c3bfc48dcabd18e",
-                    "size": 28917,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2025-07-01/ForgeWrapper-prism-2025-07-01.jar"
+                    "sha1": "4c4653d80409e7e968d3e3209196ffae778b7b4e",
+                    "size": 29731,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2025-12-07/ForgeWrapper-prism-2025-12-07.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2025-07-01"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2025-12-07"
         },
         {
             "downloads": {
@@ -534,9 +534,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "49571a02e0459adad7ed40a004b8b24eadfdac96",
-                    "size": 8582436,
-                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.4.147-beta/neoforge-20.4.147-beta-installer.jar"
+                    "sha1": "1d280f40ebd4744524e26465cdafb281e54ffbe9",
+                    "size": 8588146,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.147-beta/neoforge-20.4.147-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.147-beta:installer"
@@ -2074,7 +2074,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/neoforged/neoforge/20.4.147-beta/neoforge-20.4.147-beta-universal.jar",
-                    "sha1": "e5a259b6443f372999efb80623d983fd8e69875c",
+                    "sha1": "371057d94478e8e66e32c28e966cd8afce675690",
                     "size": 2500472,
                     "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.147-beta/neoforge-20.4.147-beta-universal.jar"
                 }

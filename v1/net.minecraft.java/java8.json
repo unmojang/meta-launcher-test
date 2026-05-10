@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "name": "Java 8",
-    "releaseTime": "2020-11-17T19:06:44+00:00",
+    "releaseTime": "2020-11-17T19:26:25+00:00",
     "runtimes": [
         {
             "checksum": {
@@ -43,115 +43,118 @@
         },
         {
             "checksum": {
-                "hash": "501341ccea685ea22228e481a57a5f13b62e9a1b",
+                "hash": "78e31aa15b3f437f37263351436f63e0a96e0067",
                 "type": "sha1"
             },
             "downloadType": "manifest",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2020-11-17T19:06:44+00:00",
+            "releaseTime": "2025-10-07T07:43:14+00:00",
             "runtimeOS": "mac-os-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/501341ccea685ea22228e481a57a5f13b62e9a1b/manifest.json",
+            "url": "https://piston-meta.mojang.com/v1/packages/78e31aa15b3f437f37263351436f63e0a96e0067/manifest.json",
             "vendor": "mojang",
             "version": {
+                "buildstr": "cacert462b08",
                 "major": 8,
                 "minor": 0,
-                "name": "8u74",
+                "name": "8u74-cacert462b08",
                 "security": 74
             }
         },
         {
             "checksum": {
-                "hash": "ccc88ca0b997c8ed7d0bae9120ed0fca740559db3fb9673fd8d580185c45c986",
+                "hash": "d2175167d93ecdc39005582943a21f6470389d1044c08390e659d87148338cf8",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2025-07-02T11:48:42+00:00",
+            "releaseTime": "2026-04-17T07:30:54+00:00",
             "runtimeOS": "mac-os-arm64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.88.0.19-ca-jre8.0.462-macosx_aarch64.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.94.0.17-ca-jre8.0.492-macosx_aarch64.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 462
+                "security": 492
             }
         },
         {
             "checksum": {
-                "hash": "b857498975fe5c5df26a1faa2b2c8ae7b5d15656",
+                "hash": "03828bb8455f3cef94869286a0d941dd16933239",
                 "type": "sha1"
             },
             "downloadType": "manifest",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2020-11-17T19:12:13+00:00",
+            "releaseTime": "2025-10-06T13:49:59+00:00",
             "runtimeOS": "windows-x64",
-            "url": "https://piston-meta.mojang.com/v1/packages/b857498975fe5c5df26a1faa2b2c8ae7b5d15656/manifest.json",
+            "url": "https://piston-meta.mojang.com/v1/packages/03828bb8455f3cef94869286a0d941dd16933239/manifest.json",
             "vendor": "mojang",
             "version": {
+                "buildstr": "cacert462b08",
                 "major": 8,
                 "minor": 0,
-                "name": "8u51",
+                "name": "8u51-cacert462b08",
                 "security": 51
             }
         },
         {
             "checksum": {
-                "hash": "ae4a64107cd5c9f57c5125ca2096bb4864d10f26",
+                "hash": "aa4b820bca217df2ff9bc9b5eaa03907461f5517",
                 "type": "sha1"
             },
             "downloadType": "manifest",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2020-11-17T19:10:36+00:00",
+            "releaseTime": "2025-10-06T14:01:29+00:00",
             "runtimeOS": "windows-x86",
-            "url": "https://piston-meta.mojang.com/v1/packages/ae4a64107cd5c9f57c5125ca2096bb4864d10f26/manifest.json",
+            "url": "https://piston-meta.mojang.com/v1/packages/aa4b820bca217df2ff9bc9b5eaa03907461f5517/manifest.json",
             "vendor": "mojang",
             "version": {
+                "buildstr": "cacert462b08",
                 "major": 8,
                 "minor": 0,
-                "name": "8u51",
+                "name": "8u51-cacert462b08",
                 "security": 51
             }
         },
         {
             "checksum": {
-                "hash": "48547114cef3ce1ab8e80c8140430d8fb2f23359d52ad6d7a0af28f5fe9c81f8",
+                "hash": "5f0693c6c8ca0eb8df969bb1053b1926b1e7c57a3f90c6f9e8d493395e76a329",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "releaseTime": "2026-04-29T15:37:45+00:00",
             "runtimeOS": "linux-arm32",
-            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_arm_linux_hotspot_8u492b09.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 9,
                 "major": 8,
                 "minor": 0,
-                "security": 462
+                "security": 492
             }
         },
         {
             "checksum": {
-                "hash": "c34506736ab52768c59660a5d4246b94f57543c79b7e4b53d322dda3ec4a9302",
+                "hash": "d5e50cb002600007dbdfac523605d26196607fa5212db0942ef05cdce9fe2892",
                 "type": "sha256"
             },
             "downloadType": "archive",
             "name": "jre-legacy",
             "packageType": "jre",
-            "releaseTime": "2025-07-21T16:54:31+00:00",
+            "releaseTime": "2026-04-29T15:37:45+00:00",
             "runtimeOS": "linux-arm64",
-            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u462b08.tar.gz",
+            "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_aarch64_linux_hotspot_8u492b09.tar.gz",
             "vendor": "eclipse",
             "version": {
-                "build": 8,
+                "build": 9,
                 "major": 8,
                 "minor": 0,
-                "security": 462
+                "security": 492
             }
         }
     ],

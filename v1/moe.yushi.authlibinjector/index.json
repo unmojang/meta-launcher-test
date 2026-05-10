@@ -5,17 +5,17 @@
     "versions": [
         {
             "recommended": true,
-            "releaseTime": "2025-09-04T04:50:47+00:00",
-            "sha256": "389249309afab34d471645f5d68e227d7aa7f02d76461e5ca21e9775ef77d8e4",
+            "releaseTime": "2025-12-16T16:01:27+00:00",
+            "sha256": "023847a3472711016ce5402a1ebeaf5b2f73f00835d2965b5084b17328d31283",
             "type": "release",
-            "version": "1.2.5.1.unmojang"
+            "version": "1.2.7"
         },
         {
             "recommended": false,
-            "releaseTime": "2025-09-04T04:08:10+00:00",
-            "sha256": "fab210824e13a0d30405a51dc36c590e018cacc2a2dfef8ff15e371d30237180",
+            "releaseTime": "2025-10-06T04:30:02+00:00",
+            "sha256": "c4a7e503795dec9e4ccb37af2dc3ac16db37f0d7f4d4bbf4bba3a1ee1a7c0da5",
             "type": "release",
-            "version": "1.2.5.0.unmojang"
+            "version": "1.2.6"
         },
         {
             "recommended": false,
@@ -349,16 +349,16 @@
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "b5286126f0c022ecd122a19e0017317ba99cc303f95791808e55919779874b19",
+            "sha256": "8169f8884545d8352baecc6dc6b73cbc1836284dfbbd9f02c9ceb023ef92c285",
             "type": "release",
-            "version": "1.0.3-3185f73"
+            "version": "1.0.1-4405964"
         },
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "8169f8884545d8352baecc6dc6b73cbc1836284dfbbd9f02c9ceb023ef92c285",
+            "sha256": "1ebcd4418870a8f984744aad503d73e2bc1f5de92b6ac6bdcc3f3e836c397752",
             "type": "release",
-            "version": "1.0.1-4405964"
+            "version": "1.0.6-28fcbd2"
         },
         {
             "recommended": false,
@@ -370,9 +370,9 @@
         {
             "recommended": false,
             "releaseTime": "2018-06-28T21:14:02+08:00",
-            "sha256": "1ebcd4418870a8f984744aad503d73e2bc1f5de92b6ac6bdcc3f3e836c397752",
+            "sha256": "b5286126f0c022ecd122a19e0017317ba99cc303f95791808e55919779874b19",
             "type": "release",
-            "version": "1.0.6-28fcbd2"
+            "version": "1.0.3-3185f73"
         },
         {
             "recommended": false,

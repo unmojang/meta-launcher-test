@@ -5,6 +5,114 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-04-02T11:44:10+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "c2dac170edd1fb96c54664159eb21ee0405346c7cd16991100c83a40d8ee9a53",
+            "type": "release",
+            "version": "0.30.0-beta.7"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-02T11:00:28+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "2c93435fc896420fd88278922bf05b1e2e8b2d02e3c9474ba7d52498e49fe252",
+            "type": "release",
+            "version": "0.30.0-beta.6"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-01T13:53:12+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "eaa7d2b9aa2b70bffef9e635a61711d8545c18162523a7bee9a02d75ff4f9a01",
+            "type": "release",
+            "version": "0.30.0-beta.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-01T11:26:12+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "beebf2457d9ed1fe74fa7b5741ccc67c416d71b6743eb53e0a1b452dee0ac178",
+            "type": "release",
+            "version": "0.30.0-beta.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-02-17T01:38:26+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "1fee2ae79fa10e7efb7deb8aed384a3d694a72338364e3191ea63e700a6ffa77",
+            "type": "release",
+            "version": "0.30.0-beta.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-02-17T00:48:36+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "65bff75e427c39ac4466f3976d8da5023ff0e580050e90749a052d9267d38b3a",
+            "type": "release",
+            "version": "0.30.0-beta.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-12-12T03:39:22+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "cf534dfda85519a63796b1de244cf67bd46bc2700a081152dbbdc7f38c16bbc5",
+            "type": "release",
+            "version": "0.30.0-beta.0"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-10-25T20:57:12+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "a40326b9927741b1078dbd7c8a19e287a8202ea737b4e5a2e54efb35b451e1e0",
+            "type": "release",
+            "version": "0.29.3-beta.1"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-25T17:27:40+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "03e9baf7a836c32d6be272fc3304685a3b7b84fd94586f95bd406f3ff00b9ab8",
+            "type": "release",
+            "version": "0.29.2"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2025-09-03T16:25:14+00:00",
             "requires": [
                 {
@@ -52,7 +160,7 @@
             "version": "0.29.2-beta.1"
         },
         {
-            "recommended": true,
+            "recommended": false,
             "releaseTime": "2025-07-22T19:30:42+00:00",
             "requires": [
                 {

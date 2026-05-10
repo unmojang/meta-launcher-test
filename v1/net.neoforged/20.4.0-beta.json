@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "9325d3c4f97deffca76633845c3bfc48dcabd18e",
-                    "size": 28917,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2025-07-01/ForgeWrapper-prism-2025-07-01.jar"
+                    "sha1": "4c4653d80409e7e968d3e3209196ffae778b7b4e",
+                    "size": 29731,
+                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2025-12-07/ForgeWrapper-prism-2025-12-07.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2025-07-01"
+            "name": "io.github.zekerzhayard:ForgeWrapper:prism-2025-12-07"
         },
         {
             "downloads": {
@@ -589,9 +589,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "3230d5cd1883263ed2e34c251bce749cdce5bc4a",
-                    "size": 8195610,
-                    "url": "https://maven.neoforged.net/net/neoforged/neoforge/20.4.0-beta/neoforge-20.4.0-beta-installer.jar"
+                    "sha1": "edf1338b4686c639905b0ceda6b4c851a323e784",
+                    "size": 8200422,
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.0-beta/neoforge-20.4.0-beta-installer.jar"
                 }
             },
             "name": "net.neoforged:neoforge:20.4.0-beta:installer"
@@ -2052,7 +2052,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/neoforged/neoforge/20.4.0-beta/neoforge-20.4.0-beta-universal.jar",
-                    "sha1": "24a56eb0b526b765772b3502a732042c422881e1",
+                    "sha1": "a190d7c5f84e42794490da9415b1ea179957c670",
                     "size": 2220880,
                     "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.4.0-beta/neoforge-20.4.0-beta-universal.jar"
                 }

@@ -7,10 +7,10 @@
     ],
     "assetIndex": {
         "id": "24",
-        "sha1": "dfade94456019f3f9a587c0507428197d85a9542",
-        "size": 482589,
-        "totalSize": 412222049,
-        "url": "https://piston-meta.mojang.com/v1/packages/dfade94456019f3f9a587c0507428197d85a9542/24.json"
+        "sha1": "d149d019e6ebd41e91866659186f95fe6b9c3c92",
+        "size": 482787,
+        "totalSize": 417553134,
+        "url": "https://piston-meta.mojang.com/v1/packages/d149d019e6ebd41e91866659186f95fe6b9c3c92/24.json"
     },
     "compatibleJavaMajors": [
         21
