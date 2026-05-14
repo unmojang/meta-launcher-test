@@ -13,12 +13,12 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "authlib-injector",
-            "sha256": "f47ee06d16866b667cfc32c24e8145f00af8b2c3aff28d08b3f757f83f342c68",
+            "sha256": "4b923615b7921b3221266619bcccb77b4d1a87268a721954a2fbcbef78ec4ae6",
             "uid": "moe.yushi.authlibinjector"
         },
         {
@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "9b46f6cd9af75d3d3ce44b5c69b0b38982ba3beeba16c04cf2ee4c612734d3be",
+            "sha256": "533e1b29fb10146fc6c3163426a4b945412b24d76afa86134dc12cb2169c2b7f",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "cb9be2b021835808d34cbf8038677502b842d18faee7c3cc7e2830ea849a482f",
+            "sha256": "7027e1d6004e872e8410e7dee8e9d52c0bcd73d2e0f273316481139d875c1366",
             "uid": "net.minecraft"
         },
         {
@@ -58,12 +58,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "d1008f235131d2f422fb65c34c0b24353a439f92654fabab2260ecd37ac5b2ac",
+            "sha256": "2104ed47766e8ee2dcae1294da934a5ea0cfc699e7215d3b7239cc3cded4eda2",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "641153bb3378472e0a2d04ca316253009039b92eb438c18051cb817040270223",
+            "sha256": "11664ae0595ab8de9443240dfaff3ed70c5830e16ecf34d29a30f325934c5e80",
             "uid": "org.lwjgl3"
         },
         {
