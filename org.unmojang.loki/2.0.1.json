@@ -1,0 +1,14 @@
+{
+    "+agents": [
+        {
+            "MMC-absoluteUrl": "https://github.com/unmojang/Loki/releases/download/v2.0.1/Loki-2.0.1.jar",
+            "name": "org.unmojang:Loki:2.0.1"
+        }
+    ],
+    "formatVersion": 1,
+    "name": "Loki",
+    "releaseTime": "2026-01-01T08:38:11+00:00",
+    "type": "release",
+    "uid": "org.unmojang.loki",
+    "version": "2.0.1"
+}
