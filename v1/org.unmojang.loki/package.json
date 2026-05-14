@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "unmojang"
+    ],
+    "description": "Patch (nearly) any Minecraft version to use custom API servers",
+    "formatVersion": 1,
+    "name": "Loki",
+    "projectUrl": "https://github.com/unmojang/Loki",
+    "recommended": [
+        "2.4.1"
+    ],
+    "uid": "org.unmojang.loki"
+}
