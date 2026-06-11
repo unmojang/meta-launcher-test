@@ -10,23 +10,10 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2026-04-07T11:52:43+00:00",
-            "sha256": "5c9fc80639d4397df50bda937fb99e35cb07328134ed31e0f560b70f0c8e0399",
+            "releaseTime": "2026-06-04T12:38:47+00:00",
+            "sha256": "45c6dc6abe03264efa9d151b1e3b1aeb809eae453a50973fa30b8d1c2f52bc36",
             "type": "release",
             "version": "3.4.1",
-            "volatile": true
-        },
-        {
-            "conflicts": [
-                {
-                    "uid": "org.lwjgl"
-                }
-            ],
-            "recommended": false,
-            "releaseTime": "2025-11-25T13:56:50+00:00",
-            "sha256": "9714c8953a973a96f482ae65dbc59cf24c8a4fbaa4a306de01ee3428f57bef3d",
-            "type": "release",
-            "version": "3.3.3",
             "volatile": true
         },
         {
@@ -49,8 +36,21 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2024-01-31T13:05:26+00:00",
-            "sha256": "4220ede9999ecb2db9f802b875448a8ecbec58cbdc2ead591d7a715fa22f03ce",
+            "releaseTime": "2025-06-04T13:33:25+00:00",
+            "sha256": "d82e0eb6939814c7008bab8dee1d8cb33460e264ce6bcc5d9f133d5088a83455",
+            "type": "release",
+            "version": "3.3.3",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2024-02-01T12:55:14+00:00",
+            "sha256": "4f37529eaa24ab3135a881d1265e57f00b531f3f7e7c4fa973966dbc55496c22",
             "type": "release",
             "version": "3.3.2",
             "volatile": true
@@ -62,8 +62,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2022-10-26T11:55:59+00:00",
-            "sha256": "f2c563a9812b9bb662042381588a69f0ecd8da9bcacbd96c6155968ed3be0938",
+            "releaseTime": "2023-05-29T13:44:34+00:00",
+            "sha256": "cfee3d5c032f1b592df5e8f067277756bce58792883b29cb3ee8b768b9da54b1",
             "type": "release",
             "version": "3.3.1",
             "volatile": true
@@ -75,8 +75,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2019-07-10T12:53:29+00:00",
-            "sha256": "284b8d164c889b16c82c34dd541ef4e88759c9b5f74d381c9482b1b48b3e6e42",
+            "releaseTime": "2019-06-14T08:03:33+00:00",
+            "sha256": "e396009adc4a984f64b9ae524cf3dd5f75735195c5ced60ea96a15a484c46d56",
             "type": "release",
             "version": "3.2.2",
             "volatile": true
@@ -88,8 +88,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2019-04-23T14:52:44+00:00",
-            "sha256": "68bd5f594737f5bac1859616f179fc5ce738f4d26768245e48902b8c3d76f240",
+            "releaseTime": "2019-03-13T13:59:29+00:00",
+            "sha256": "d1f70e81b1cd5369e278a1eed800b0670d59e5cb70755d239814992b2f17a035",
             "type": "release",
             "version": "3.2.1",
             "volatile": true
@@ -101,8 +101,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2018-10-24T15:02:30+00:00",
-            "sha256": "a3492ed062e26ba2b19c34c5f955544875c552514308f7d9f386085406778035",
+            "releaseTime": "2018-06-28T13:58:53+00:00",
+            "sha256": "60f522564e65d3b5df1c2cd3815f637b370abc361620211e036a32f7731d3483",
             "type": "release",
             "version": "3.1.6",
             "volatile": true
@@ -114,8 +114,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2018-02-22T15:44:49+00:00",
-            "sha256": "05ff085c6148fc7d8021e6217fe9085a336c95f868ac910cc214154e1e796fba",
+            "releaseTime": "2018-04-05T14:44:02+00:00",
+            "sha256": "42960e1a2ba56eb60528a9d7cb5f14d9b1982497d294e43280e44e52997f6fee",
             "type": "release",
             "version": "3.1.2",
             "volatile": true

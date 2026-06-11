@@ -7,7 +7,7 @@
     "name": "Loki",
     "projectUrl": "https://github.com/unmojang/Loki",
     "recommended": [
-        "2.4.1"
+        "2.6.0"
     ],
     "uid": "org.unmojang.loki"
 }
